@@ -1,0 +1,35 @@
+[
+  {
+    "fieldId": "longformBody",
+    "conditions": [
+      {
+        "eq": ["postVariant", "LONGFORM"]
+      }
+    ]
+  },
+  {
+    "fieldId": "mediaEmbedCode",
+    "conditions": [
+      {
+        "eq": ["postVariant", "MEDIA"]
+      }
+    ]
+  },
+  {
+    "fieldId": "sponsorName",
+    "conditions": [
+      {
+        "eq": ["postVariant", "SPONSORED"]
+      }
+    ]
+  },
+  {
+    "fieldId": "sponsorKeywords",
+    "conditions": [
+      {
+        "eq": ["postVariant", "SPONSORED"]
+      }
+    ]
+  }
+]
+
