@@ -5,6 +5,8 @@ This repo is a demo implementation for conditional fields within an Entry Editor
 
 The app uses a combination of default Contentful fields (rendered with [default-field-editors](https://contentful-field-editors.netlify.app/shared/default-field-editors)) and custom implementations of fields (rendered with [Forma 36](https://f36.contentful.com/) components) whose state is managed by this app.
 
+The app code is in `/src/components/EntryEditor.tsx`
+
 Conditional fields and their conditions are defined in the `conditionalFields.json` file.
 
 ## Demo
