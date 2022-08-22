@@ -9,7 +9,7 @@ The app code is in `/src/components/EntryEditor.tsx`
 
 Conditional fields and their conditions are defined in the `conditionalFields.json` file.
 
-## Demo
+## Demo (click .gif below to play)
 
 ![Entry Editor app with conditional fields demo](demo.gif)
 
