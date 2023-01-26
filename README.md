@@ -1,3 +1,6 @@
+# :bulb: Update Jan 2023
+Contentful now recommends a marketplace app called [Conditional Fields](https://www.contentful.com/marketplace/app/conditional-fields-by-prototyp/) by Proptyp that accomplishes what this demo tried valiantly to do back in 2022. I shall put this repo to bed now. Thanks, Proptyp!
+
 # Contentful Custom App: Entry Editor Conditional Fields Demo
 
 Contentful doesn't offer an out-of-the box way to implement custom fields.
